@@ -1,4 +1,4 @@
-# PDF-ETL
+# PDF ETL
 A ETL to extract spreadsheets from PDF and load it to a MySQL database
 ## Result
 ![alt text](https://github.com/CAG9/PDF-ETL/blob/main/PDFspreadsheet.png)
@@ -7,11 +7,11 @@ A ETL to extract spreadsheets from PDF and load it to a MySQL database
 
 ## Tools and Technologies
 - Python 3
-- tabula
-- os
-- glob
-- pandas
-- sqlalchemy 
-- pymysql
-- pyodbc
-- datetime 
+- Tabula
+- Os
+- Glob
+- Pandas
+- Sqlalchemy 
+- Pymysql
+- Pyodbc
+- Datetime 
